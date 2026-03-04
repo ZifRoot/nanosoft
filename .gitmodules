@@ -1,0 +1,8 @@
+[submodule "nanosoft-textprocessor"]
+	path = nanosoft-textprocessor
+	url = https://github.com/ZifRoot/nanosoft-textprocessor
+	branch = master
+[submodule "nanosoft-ATM"]
+	path = nanosoft-ATM
+	url = git@github.com:ZifRoot/nanosoft-ATM.git
+	branch = master
